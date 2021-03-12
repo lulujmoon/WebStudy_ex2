@@ -124,3 +124,6 @@ copy buttonpronun button
 java
 [] 
 자바, 자바산 커피, 커피, 자바종
+.classpath
+.project
+WebContent/META-INF/MANIFEST.MF
